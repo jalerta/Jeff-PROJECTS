@@ -4,7 +4,6 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.support.v7.widget.Toolbar;
 
-// added comment to force GitHub Desktop commit
 
 public class MainActivity extends Activity {
 
