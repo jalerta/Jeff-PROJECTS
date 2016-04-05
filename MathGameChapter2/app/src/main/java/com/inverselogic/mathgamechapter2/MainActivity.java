@@ -1,6 +1,8 @@
 package com.inverselogic.mathgamechapter2;
 
 // Modified file for Git/BitBucket
+// More comments
+
 
 import android.os.Bundle;
 import android.app.Activity;
